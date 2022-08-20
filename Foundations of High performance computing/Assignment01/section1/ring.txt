@@ -1,0 +1,2 @@
+ I am processor 0 and i have received 4 messages. My final messages have tag 0 and have value -1 and 1 and my worktime is 2.361e-06
+ I am processor 1 and i have received 4 messages. My final messages have tag 10 and have value -1 and 1 and my worktime is 2.442e-06
